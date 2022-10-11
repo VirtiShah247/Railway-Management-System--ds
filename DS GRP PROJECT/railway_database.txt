@@ -1,0 +1,7 @@
+1372 shatabdi 16/08/2022 16:0 20:0 ahm mum 4:0 300.00
+2368 rajdhani 15/09/2022 15:0 19:5 ahmedabad pune 4:5 300.00
+2489 shatabdi 18/09/2022 20:0 5:0 mumbai ahmedabad 9:0 300.00
+2600 duronto 16/09/2022 21:0 6:15 new delhi mumbai 9:15 500.00
+3537 rajdhani 24/09/2022 20:15 24:5 ahmedabd rajasthan 4:10 200.00
+3068 bharat 25/09/2022 11:0 11:20 rajkot jaipur 0:20 650.00
+3095 expressindia 29/09/2022 15:15 15:30 jaipur noida 0:15 400.00
